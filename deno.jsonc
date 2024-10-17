@@ -1,0 +1,11 @@
+{
+    "lint": {
+        "include": ["src/"]
+    },
+    "fmt": {
+        "include": ["src/"],
+        "lineWidth": 120,
+        "semiColons": true,
+        "singleQuote": true
+    }
+}
